@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0ba39f0.chunk.css",
+    "main.js": "/static/js/main.1c0f5e93.chunk.js",
+    "main.js.map": "/static/js/main.1c0f5e93.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9e57f4cc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9e57f4cc.js.map",
+    "static/js/2.f3f7e984.chunk.js": "/static/js/2.f3f7e984.chunk.js",
+    "static/js/2.f3f7e984.chunk.js.map": "/static/js/2.f3f7e984.chunk.js.map",
+    "static/js/3.98ad52b5.chunk.js": "/static/js/3.98ad52b5.chunk.js",
+    "static/js/3.98ad52b5.chunk.js.map": "/static/js/3.98ad52b5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a0ba39f0.chunk.css.map": "/static/css/main.a0ba39f0.chunk.css.map",
+    "static/js/2.f3f7e984.chunk.js.LICENSE.txt": "/static/js/2.f3f7e984.chunk.js.LICENSE.txt",
+    "static/media/oceanica_original.1035af5b.png": "/static/media/oceanica_original.1035af5b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e57f4cc.js",
+    "static/js/2.f3f7e984.chunk.js",
+    "static/css/main.a0ba39f0.chunk.css",
+    "static/js/main.1c0f5e93.chunk.js"
+  ]
+}

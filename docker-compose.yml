@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  node:
+    build: .
+    volumes:
+      - ./:/home/node/app
+    ports:
+      - 9000:9000
+    command: npm start
+    tty: true
